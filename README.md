@@ -10,7 +10,9 @@ TADAU-MODEL is a software for paper 《Time-Angle Dual Attention U-Net for Prest
 ### Who do I talk to?
 
 Dajiang Meng;
+
 a. Key Laboratory of Marine Mineral Resources, Ministry of Natural Resources, Guangzhou Marine Geological Survey, China Geological Survey, Guangzhou, China;
+
 b. National Engineering Research Center for Gas Hydrate Exploration and Development, Guangzhou Marine Geological Survey, China Geological Survey, Guangzhou, China;
 
 E-mail:dajiang623@163.com
