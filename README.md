@@ -79,5 +79,9 @@ and well-trained models.
         inv_data_tadau&unet_test.npz: Prediction results generated from 3syn_data.npz;
         1syn_loss.png: Comparison plot of training loss;
         1valid_curves.png: Comparison plot of prediction curves.	
-
-
+		
+---------------------------------------------------------------------------------------
+Copyright (C) 2026 Dajiang Meng, GMGS
+All intellectual property rights are reserved.
+This code is only allowed for academic research purposes.
+Commercial usage and unauthorized distribution are not permitted.
