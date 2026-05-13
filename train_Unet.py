@@ -27,7 +27,7 @@ if __name__ == '__main__':
     # Aangle
     angles = data['angles']
      # Normalized
-    vp_max, vs_max, rho_max = 3, 1.8, 2.5
+    vp_max, vs_max, rho_max = 3, 1.0, 2.5
     norm_para = np.array([vp_max, vs_max, rho_max]).reshape(1, 1, 3)
 
     # train data
